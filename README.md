@@ -1,6 +1,6 @@
 # CTF-Bank-Hi-uhc-WEB
 A machine that I made for UHCv32 
-
+Official WriteUP -> https://www.notion.so/UHCV32-Classificat-ria-Web-Official-Write-Up-BankHi-44017986f47d4b21902d7498a53f2faa
 to start:
 ```bash 
 docker build -t bankhi .
